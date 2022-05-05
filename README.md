@@ -6,5 +6,4 @@ I hope you are well :)
 - :seedling: Interested in web development and new technologies  
 - :mahjong: Future chess Candidate Master?  
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-Reach me on [Linkedin](https://www.linkedin.com/in/alexis-bouligand-14945a1b7/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-bouligand-14945a1b7/)
