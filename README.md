@@ -1,4 +1,4 @@
-### Hello there :wave:, I'm Alexis Bouligand
+### Hello :wave:, I'm Alexis Bouligand
 I hope you are well :)
 
 - :briefcase: Currently working on XPFI.online, a financial analysis SaaS  
